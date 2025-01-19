@@ -2,6 +2,6 @@ Flask==2.0.1
 Flask-Cors==3.0.10
 joblib==1.0.1
 numpy==1.21.0
-tensorflow==2.5.0
+tensorflow==2.13.0
 scikit-learn==0.24.2
 gunicorn==22.0.0
